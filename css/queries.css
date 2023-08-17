@@ -1,0 +1,36 @@
+@media (max-width: 80em) {
+  .big-heading-1 {
+    font-size: 3.4rem;
+  }
+
+  .big-heading {
+    font-size: 10rem;
+    margin-left: 3.2rem;
+  }
+}
+
+@media (max-width: 68em) {
+  .big-heading-1 {
+    font-size: 2rem;
+  }
+
+  .big-heading {
+    font-size: 6.4rem;
+    margin-left: 3.2rem;
+    top: 30%;
+    letter-spacing: -0.1rem;
+  }
+}
+
+@media (max-width: 44em) {
+  .big-heading-1 {
+    font-size: 1.6rem;
+  }
+
+  .big-heading {
+    font-size: 5.2rem;
+    top: 30%;
+    letter-spacing: -0.1rem;
+    left: 12%;
+  }
+}
